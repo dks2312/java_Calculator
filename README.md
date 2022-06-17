@@ -20,6 +20,6 @@ java swing
 
 윈도우 계산기의 표준모드를 보며 최대한 똑같이 만들었습니다
 
-**사진**
+
 
 ![화면 캡처 2022-06-17 095329](https://user-images.githubusercontent.com/59419591/174201143-ff484cad-8181-4317-acad-3215559eed21.png)
